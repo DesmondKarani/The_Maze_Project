@@ -42,3 +42,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments 🙌
 - Thanks to all contributors who have helped with coding, testing, and providing valuable feedback.
 - Special thanks to the raycasting tutorials and resources that inspired the visual aspects of this game.
+
+## Authors
+
+Desmond Karani - [Github](https://github.com/DesmondKarani) / [X](https://twitter.com/karani_des)
+
+## License
+Public Domain. No copy write protection. 
+Use it as you may, but just acknowledge me 🤨
