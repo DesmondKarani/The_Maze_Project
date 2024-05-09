@@ -50,6 +50,9 @@ N - Turn on map visibility. The 2D map will be visible again if it wasn't
 
 Enjoy! 😁
 
+## Images
+![alt text](g.png) 
+
 ## Contributing 🤝
 Contributions to the Maze Project are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request. Please ensure your code adheres to the existing style to maintain consistency.
 
