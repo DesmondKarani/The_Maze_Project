@@ -19,19 +19,36 @@ To get started with the Maze Project, follow these steps:
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd mazeproject
+   cd The_Maze_Project
    ```
-3. **Install dependencies:**
+3. **First make sure SDL is installed. If you haven't install SDL by running make linux_install. Then run the following command:**
    ```bash
-   pip install -r requirements.txt
+   make linux
    ```
-4. **Run the application:**
-   ```bash
-   python main.py
-   ```
+to compile.
 
+4. **Run the application:**
+After successfully compiling run the program using following command: 
+   ```bash
+   ./maze MAP
+   ```
 ## Usage 🎮
-To play the game, simply run the `main.py` script and use the keyboard controls to navigate through the maze. The goal is to find the exit without being caught by the roaming enemies.
+
+W - Moving forward 
+
+S - Moving backward 
+
+A - Look left 
+
+D - Look right 
+
+Mouse move left/right - look left or right 
+
+M - Turn off map visibility. The 2D map won't be visible on clicking 
+
+N - Turn on map visibility. The 2D map will be visible again if it wasn't 
+
+Enjoy! 😁
 
 ## Contributing 🤝
 Contributions to the Maze Project are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request. Please ensure your code adheres to the existing style to maintain consistency.
